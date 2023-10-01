@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto que eu criei como parte do curso "A partir do zero: iniciante em programação". Durante o curso, aprendi os fundamentos de lógica de programação, Arquiquetura/Sistema Operacional de computadores, HTML e CSS, JavaScript e Git básico.
+Este é um projeto que eu criei como parte do curso "A partir do zero: iniciante em programação" da Alura. Durante o curso, aprendi os fundamentos de lógica de programação, Arquiquetura/Sistema Operacional de computadores, HTML e CSS, JavaScript e Git básico.
 
 <br>
 
