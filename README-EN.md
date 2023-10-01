@@ -3,12 +3,12 @@
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/Alura-AluraMid-Project/blob/main/README.md">Não fala inglês? Clique aqui para ver a versão em português.</a>
+<a href="https://github.com/ItaloPachecoMustaro/Alura-AluraMid-Project/blob/main/README.md">Não fala Inglês? Clique aqui para ver a versão em português.</a>
 <hr>
 
 ## 📚Description
 
-This is a project I created as part of the "From Scratch: Beginner in Programming" course. During the course, I learned the fundamentals of programming logic, Computer Architecture/Operating System, HTML and CSS, JavaScript and basic Git.
+This is a project I created as part of the "From Scratch: Beginner in Programming" course by Alura. During the course, I learned the fundamentals of programming logic, Computer Architecture/Operating System, HTML and CSS, JavaScript and basic Git.
 
 <br>
 
