@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto que eu criei como parte do curso "JavaScript para web: crie páginas dinâmicas" da Alura. O projeto é um beatmaker, utilizando JavaScript. Durante o curso, aprendi Associar o JavaScript com HTML através do DOM, Implementar funções com JavaScript, Investigar possibilidades de resolução de problemas de código e Selecionar operadores lógicos adequados para diferentes situações.
+Este é um projeto que desenvolvi como parte do curso "JavaScript para web: crie páginas dinâmicas" oferecido pela Alura. O projeto consiste em um beatmaker que inclui sons de bateria, sendo construído com base no uso do JavaScript. Ao longo do curso, adquiri habilidades essenciais para conectar o JavaScript ao HTML por meio do Document Object Model (DOM), criar e implementar funções em JavaScript, aprimorar minha capacidade de investigar e resolver desafios de programação, e escolher os operadores lógicos apropriados para diversas situações.
 
 <br>
 
