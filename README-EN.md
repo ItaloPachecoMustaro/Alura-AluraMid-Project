@@ -8,7 +8,7 @@
 
 ## 📚Description
 
-This is a project I created as part of the "From Scratch: Beginner in Programming" course by Alura. During the course, I learned the fundamentals of programming logic, Computer Architecture/Operating System, HTML and CSS, JavaScript and basic Git.
+This is a project I created as part of Alura's "JavaScript for the Web: Create Dynamic Pages" course. The project is a beatmaker, using JavaScript. During the course, I learned how to associate JavaScript with HTML through the DOM, implement functions with JavaScript, investigate possibilities for solving code problems and select logical operators suitable for different situations.
 
 <br>
 
@@ -18,16 +18,10 @@ This is a project I created as part of the "From Scratch: Beginner in Programmin
 
 <br>
 
-## 👨‍🏫Course Tutors
+## 👨‍🏫Course tutor
 
-- [Andrew Ijano Lopes](https://github.com/AndrewIjano)
-- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
-- [Rafaella Ballerini](https://github.com/rafaballerini)
 - [Vanessa Me Tonini](https://github.com/vanessametonini)
-- [Paulo Silveirai](https://www.linkedin.com/in/paulosilveira/)
-- [Vinicius Dias](https://github.com/cviniciussdias)
-- [Matheus Alberto](https://github.com/ikyrie)
-- [Juliana Negreiros](https://github.com/juunegreros)
+
 
 <br>
 
