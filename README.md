@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Bem-vindo ao meu Projeto: A partir do zero: iniciante em programação</h1> 
+<h1>Bem-vindo ao meu Projeto: JavaScript para web: crie páginas denâmicas</h1> 
 </div>
 
 <hr>
@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto que eu criei como parte do curso "A partir do zero: iniciante em programação" da Alura. Durante o curso, aprendi os fundamentos de lógica de programação, Arquiquetura/Sistema Operacional de computadores, HTML e CSS, JavaScript e Git básico.
+Este é um projeto que eu criei como parte do curso "JavaScript para web: crie páginas dinâmicas" da Alura. O projeto é um beatmaker, utilizando JavaScript. Durante o curso, aprendi Associar o JavaScript com HTML através do DOM, Implementar funções com JavaScript, Investigar possibilidades de resolução de problemas de código e Selecionar operadores lógicos adequados para diferentes situações.
 
 <br>
 
@@ -18,14 +18,10 @@ Este é um projeto que eu criei como parte do curso "A partir do zero: iniciante
 
 <br>
 
-## 👨‍🏫Tutores do Curso
+## 👨‍🏫Tutor do Curso
 
-- [Andrew Ijano Lopes](https://github.com/AndrewIjano)
-- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
-- [Rafaella Ballerini](https://github.com/rafaballerini)
 - [Vanessa Me Tonini](https://github.com/vanessametonini)
-- [Paulo Silveirai](https://www.linkedin.com/in/paulosilveira/)
-- [Vinicius Dias](https://github.com/cviniciussdias)
+
 
 <br>
 
