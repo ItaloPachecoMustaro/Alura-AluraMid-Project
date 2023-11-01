@@ -26,8 +26,6 @@ Este é um projeto que eu criei como parte do curso "A partir do zero: iniciante
 - [Vanessa Me Tonini](https://github.com/vanessametonini)
 - [Paulo Silveirai](https://www.linkedin.com/in/paulosilveira/)
 - [Vinicius Dias](https://github.com/cviniciussdias)
-- [Matheus Alberto](https://github.com/ikyrie)
-- [Juliana Negreiros](https://github.com/juunegreiros)
 
 <br>
 
